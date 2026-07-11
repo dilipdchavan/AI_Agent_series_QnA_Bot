@@ -10,13 +10,14 @@ Streamlit enables developers to create interactive web apps quickly using Python
 Need to import following files through
 
 require2.txt
-
-langchain
-langchain-openai
 dotenv
+langchain 
 langchain-google-genai
+langchain-openai
 langchain-anthropic
 streamlit
+
+
 --------------------
 
 This is really nice to kick start Agentic AI series.
